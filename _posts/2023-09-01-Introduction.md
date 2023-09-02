@@ -2,11 +2,11 @@
 title: Introduction
 date: 2023-09-01 11:11:11 -001
 categories: [introduction]
-tags: [thm, cyber]
+tags: [introduction]
 ---
 
 # Welcome
 
-#### I am planning to start writing some blogs / notes, basically these posts will be my brain dump and might not be polished.
+#### I am planning to start writing some blogs / notes, basically these posts will be my brain dump.
 
 
