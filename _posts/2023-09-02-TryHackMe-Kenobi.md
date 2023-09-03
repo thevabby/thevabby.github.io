@@ -13,7 +13,7 @@ tags: [thm, kenobi]
 
 ### nmap scripts to scan RPC
 
-nmap port scan will have shown port 111 running the service rpcbind. This is just a server that converts remote procedure call (RPC) program number into
+nmap port scan will show port 111 running the service rpcbind. This is just a server that converts remote procedure call (RPC) program number into
 universal addresses. When an RPC service is started, it tells rpcbind the address at which it is listening and the RPC program number its prepared to serve.
 
 In our case, port 111 is access to a network file system. Lets use nmap to enumerate this.
