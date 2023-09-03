@@ -1,6 +1,6 @@
 ---
 title: TryHackMe - Kenobi
-date: 2023-09-01 11:11:11 -001
+date: 2023-09-02 11:11:11 -001
 categories: [TryHackMe, THM]
 tags: [thm, kenobi]
 ---
