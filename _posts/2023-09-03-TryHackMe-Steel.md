@@ -18,7 +18,7 @@ You can download the script here. Now you can use the upload command in Metasplo
 
 to upload script
 
-![image info](images/upload.png)
+![image info](/images/upload.png)
 
 * To execute this using Meterpreter, I will type load powershell into meterpreter. Then I will enter powershell by entering powershell_shell *
 
@@ -33,7 +33,7 @@ PS > Invoke-AllChecks
 
 ```
 
-![](images/powerup.png)
+![](/images/powerup.png)
 Output of Invoke-AllChecks has options
 
 Check for service which has option **CanRestart** option being true, allows us to restart a service on the system, the directory to the application is also write-able. This means we can replace the legitimate application with our malicious one, restart the service, which will run our infected program!
@@ -76,11 +76,11 @@ Saved as: Advanced.exe
 ```
 
 
-![](images/cmd_to_query_service.png)
+![](/images/cmd_to_query_service.png)
 
-![](images/cmd_to_stop_servcie.png)
+![](/images/cmd_to_stop_servcie.png)
 
-![](images/cmd_to_copy_and_start_service.png)
+![](/images/cmd_to_copy_and_start_service.png)
 
 
 Run 
