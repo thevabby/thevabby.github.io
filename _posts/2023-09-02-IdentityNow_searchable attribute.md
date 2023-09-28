@@ -19,7 +19,7 @@ tags: [sailpoint, idn, identitynow, correlation]
 
 ```bash
 
-HTTP POST https://<<tenant>>.api.identitynow.com/cc/api/identityAttribute/get?name=<<attr_name>>
+HTTP POST https://<<tenant>>.api.identitynow.com/cc/api/identityAttribute/update?name=<<attr_name>>
 
 
 {
