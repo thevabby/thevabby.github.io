@@ -7,3 +7,4 @@ tags: [MS]
 
 # Microsoft Graph
 
+This post has commands on how ti user MSGraph Powershell cmdlets to connect to AzureAD.
