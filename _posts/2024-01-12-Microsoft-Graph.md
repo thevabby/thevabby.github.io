@@ -19,8 +19,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Install-Module Microsoft.Graph -Scope CurrentUser
 ```
 
-### Roconnect to Entra ID using MgGraph
+### To connect to Entra ID using MgGraph
 
-```poershell
+```powershell
 Connect-MgGraph
 ```
